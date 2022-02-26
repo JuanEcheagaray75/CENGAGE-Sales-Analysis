@@ -2,15 +2,19 @@
 
 ## Pre-requisites
 
-- [ ] Ask teacher for help on designing a charter document
-- [ ] Task assignment
+- [x] Ask teacher for help on designing a charter document
+- [ ] Tasks assignment
 
-## CENGAGE
+## CENGAGE Analysis
 
 ### Business understanding
 
 - [ ] Define objectives
+  - [ ] ! Predict how sales will behave in a post-pandemic situation
+  - [ ] Predict sales for a particular book
+  - [ ] Determine how the edition of a book affects its sales
 - [ ] Identify data sources
+  - [ ] Just use the csv sent by CENGAGE?
 - [ ] Deliverables
   - [ ] Charter document
   - [ ] Data sources (we already have a CSV)

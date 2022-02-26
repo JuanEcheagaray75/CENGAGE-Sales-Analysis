@@ -1,0 +1,44 @@
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.pkl
+*.feather
+
+# Latex
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bcf
+*.xml
+
+# IDE
+*.vscode
+
+# Google Drive
+*.gdoc
+*.gsheet
+*.gslides
+*.ini

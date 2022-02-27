@@ -4,6 +4,7 @@
 
 - [x] Ask teacher for help on designing a charter document
 - [ ] Tasks assignment
+- [ ] Define the final deliverable
 
 ## CENGAGE Analysis
 

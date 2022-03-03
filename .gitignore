@@ -43,4 +43,7 @@
 *.gslides
 *.ini
 
+*.html
+*.pdf
+
 # Team documentation

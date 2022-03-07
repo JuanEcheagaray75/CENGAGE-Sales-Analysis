@@ -5,6 +5,7 @@
 - [x] Ask teacher for help on designing a charter document
 - [ ] Tasks assignment
 - [ ] Define the final deliverable
+- [ ] Create a proper dictionary of the dataset (in latex)
 
 ## CENGAGE Analysis
 
@@ -14,11 +15,12 @@
   - [ ] ! Predict how sales will behave in a post-pandemic situation
   - [ ] Predict sales for a particular book
   - [ ] Determine how the edition of a book affects its sales
+  - [ ] Just analyze the data and extract insights?
 - [ ] Identify data sources
   - [ ] Just use the csv sent by CENGAGE?
 - [ ] Deliverables
   - [ ] Charter document
-  - [ ] Data sources (we already have a CSV)
+  - [x] Data sources (we already have a CSV)
   - [ ] Data dictionary
 - [ ] Re-watch business meeting
 

@@ -11,24 +11,24 @@
 
 ### Business understanding
 
-- [ ] Define objectives
-  - [ ] ! Predict how sales will behave in a post-pandemic situation
+- [x] Define objectives
+  - [x] ! Predict how sales will behave in a post-pandemic situation
   - [ ] Predict sales for a particular book
   - [ ] Determine how the edition of a book affects its sales
-  - [ ] Just analyze the data and extract insights?
-- [ ] Identify data sources
-  - [ ] Just use the csv sent by CENGAGE?
-- [ ] Deliverables
+  - [x] Analyze the data and extract insights
+- [x] Identify data sources
+  - [x] Just use the csv sent by CENGAGE
+- [x] Deliverables
   - [ ] Charter document
   - [x] Data sources (we already have a CSV)
   - [ ] Data dictionary
-- [ ] Re-watch business meeting
+- [x] Re-watch business meeting
 
 ### Data acquisition and understanding
 
-- [ ] Data acquisition
-- [ ] EDA
-- [ ] Set up a pipeline (optional for this project)
+- [x] Data acquisition
+- [x] EDA
+- [x] Set up a pipeline (optional for this project)
 
 ### Modeling
 

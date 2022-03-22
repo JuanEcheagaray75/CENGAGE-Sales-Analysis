@@ -5,6 +5,9 @@
 *.pkl
 *.feather
 
+# Python
+*.venv
+
 # Latex
 *.aux
 *.glo
@@ -43,7 +46,6 @@
 *.gslides
 *.ini
 
+# Reports
 *.html
 *.pdf
-
-# Team documentation

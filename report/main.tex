@@ -160,7 +160,7 @@
 
         \begin{figure}[h!]
             \centering
-            \includegraphics[width = \columnwidth]{img/num_sales_consultant.PNG}
+            \includegraphics[width = \columnwidth]{img/num_sales_consultant.png}
             \caption{Ventas por Consultor}
             \label{fig:ventConsultor}
         \end{figure}
@@ -175,7 +175,7 @@
             \label{fig:revTítulo}
         \end{figure}
 
-        Una vez ya analizados los consultores, se continuó a analizar los títulos más vendidos y nuevamente se volvió a hacer uso de 'groupby' para poder separar los datos, tomando solo los 15 más altos con el fin de hacer más amena la visualización de los demás títulos, así como tomar en cuenta los que más aportan a CENGAGE. Al obtenerse los títulos se acomodaron de tal forma que los que tuvieran un ingreso más alto estuvieran del lado izquierdo, mientras que los de ingresos más bajos al lado derecho. Esto mostró que el título que más ingresos aportó durante el periodo este periodo de tiempo fue la Biblioteca digital magellan.
+        Una vez ya analizados los consultores, se continuó a analizar los títulos más vendidos y nuevamente se volvió a hacer uso de \emph{groupby} para poder separar los datos, tomando solo los 15 más altos con el fin de hacer más amena la visualización de los demás títulos, así como tomar en cuenta los que más aportan a CENGAGE. Al obtenerse los títulos se acomodaron de tal forma que los que tuvieran un ingreso más alto estuvieran del lado izquierdo, mientras que los de ingresos más bajos al lado derecho. Esto mostró que el título que más ingresos aportó durante el periodo este periodo de tiempo fue la Biblioteca digital magellan.
 
         \begin{figure}[h!]
             \centering
@@ -199,7 +199,7 @@
 
         \subsection{Modelos predictivos}
 
-        Después de haber completado el análisis exploratorio se prosiguió a realizar los modelos de "machine learning". Antes de pasar como tal a esa parte, cabe mencionar que para la selección de variables se hizo uso de lo que se conoce como One Hot Encoding, el cual a grandes rasgos consiste en generar una nueva columna por cada uno de los valores distintos que existan en dicha categoría. Esto se realizó de manera principal utilizando el paquete 'sklearn' y con esto se agregaron 20 nuevas variables, siendo procedentes de las variables 'Technology' y 'Country'.
+        Después de haber completado el análisis exploratorio se prosiguió a realizar los modelos de "machine learning". Antes de pasar como tal a esa parte, cabe mencionar que para la selección de variables se hizo uso de lo que se conoce como One Hot Encoding, el cual a grandes rasgos consiste en generar una nueva columna por cada uno de los valores distintos que existan en dicha categoría. Esto se realizó de manera principal utilizando el paquete \emph{sklearn} y con esto se agregaron 20 nuevas variables, siendo procedentes de las variables 'Technology' y 'Country'.
 
         \vspace{4mm}
 
@@ -219,7 +219,7 @@
         \begin{enumerate}
             \item Units
             \item Seats
-            \item Country$_$Mexico
+            \item $\text{Country}__\text{Mexico}$
             \item Consultant
             \item Edition 
         \end{enumerate}

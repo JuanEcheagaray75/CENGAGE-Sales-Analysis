@@ -2,7 +2,7 @@
 
 # CENGAGE Sales Analysis: A Data Science Approach
 
-
+This repository includes basic Data Science techniques, such as sampling techniques, data preprocessing and cleaning, exploratory data analysis, and model training. This knowledge will then be applied to a real case study focused on CENGAGE's sales data.
 
 In this repository I will be going over the basic steps of The Team Data Science Process lifecycle proposed by Microsoft click [here](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle) for more info.
 
@@ -30,13 +30,15 @@ In this repository I will be going over the basic steps of The Team Data Science
 
 ## Case Study: CENGAGE Sales Analysis
 
+> Cengage Group is an American educational content, technology, and services company for the higher education, K-12, professional, and library markets. It operates in more than 20 countries around the world. [Source](https://en.wikipedia.org/wiki/Cengage)
+
+As of this project, CENGAGE sales have been drastically decreasing since the pandemic started. CENGAGE now wants to know how their sales will look like in the future. This project is an attempt to create a machine learning model that predicts how much revenue a certain operation will generate. Forecasting was left out due to the loss of seasonality in the data.
+
 ### Data preprocessing and cleaning
 
 ### Cross Validation
 
 ### Results
-
-CENGAGE sales have dropped down by a great factor.
 
 ## Installation
 

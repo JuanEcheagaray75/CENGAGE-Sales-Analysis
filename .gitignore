@@ -45,7 +45,3 @@
 *.gsheet
 *.gslides
 *.ini
-
-# Reports
-*.html
-*.pdf

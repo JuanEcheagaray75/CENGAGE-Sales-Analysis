@@ -13,8 +13,10 @@ In this repository I will be going over the basic steps of The Team Data Science
 - [CENGAGE Sales Analysis: A Data Science Approach](#cengage-sales-analysis-a-data-science-approach)
   - [Table of Contents](#table-of-contents)
   - [Data Science Basics](#data-science-basics)
+    - [Data Preprocessing and Cleaning](#data-preprocessing-and-cleaning)
+    - [Regression and Classification](#regression-and-classification)
   - [Case Study: CENGAGE Sales Analysis](#case-study-cengage-sales-analysis)
-    - [Data preprocessing and cleaning](#data-preprocessing-and-cleaning)
+    - [Data preprocessing and cleaning](#data-preprocessing-and-cleaning-1)
     - [Cross Validation](#cross-validation)
     - [Results](#results)
   - [Installation](#installation)
@@ -22,7 +24,9 @@ In this repository I will be going over the basic steps of The Team Data Science
 
 ## Data Science Basics
 
-Talk about data preprocessing, cleaning and basic models.
+### Data Preprocessing and Cleaning
+
+### Regression and Classification
 
 ## Case Study: CENGAGE Sales Analysis
 

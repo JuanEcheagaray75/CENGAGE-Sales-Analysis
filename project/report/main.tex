@@ -70,10 +70,10 @@
         Para realizar el procesamiento de datos, análisis exploratorio y predictivo hemos optado por utilizar el lenguaje de programación Python con algunas de las librerías más usadas por la comunidad, en específico:
 
         \begin{itemize}
-            \item \emph{Numpy} \parencite{numpy}, \emph{Scipy} \parencite{2020SciPy-NMeth}: Operaciones matemáticas
+            \item \emph{NumPy} \parencite{numpy}, \emph{SciPy} \parencite{2020SciPy-NMeth}: Operaciones matemáticas
             \item \emph{Pandas} \parencite{reback2020pandas}: Lectura y manipulación de datos
             \item \emph{Seaborn} \parencite{seaborn}, \emph{Matplotlib} \parencite{matplotlib}: Visualización de datos
-            \item \emph{Scikit-learn} \parencite{scikit-learn}: Modelos predictivos
+            \item \emph{scikit-learn} \parencite{scikit-learn}: Modelos predictivos
         \end{itemize}
 
         \subsection{Procesamiento de datos}
@@ -156,7 +156,7 @@
             \label{fig:revConsultor}
         \end{figure}
 
-        Posteriormente se procedió a generar una gráfica que se concentra de manera principal en mostrar la contribución de cada uno de los consultores de CENGAGE a lo largo del lapso presentado por la base de datos. Esto con ayuda de 'groupby', lo cual permite separar los valores del Revenue por cada uno de los diferentes consultores que se nos brindan en la base de datos. Obteniendo como resultado valores bastante altos para algunos de los consultores, mientras que otros tienen ingresos bastante bajos.
+        Posteriormente se procedió a generar una gráfica que se concentra de manera principal en mostrar la contribución de cada uno de los consultores de CENGAGE a lo largo del lapso presentado por la base de datos. Esto con ayuda de \emph{groupby}, lo cual permite separar los valores del Revenue por cada uno de los diferentes consultores que se nos brindan en la base de datos. Obteniendo como resultado valores bastante altos para algunos de los consultores, mientras que otros tienen ingresos bastante bajos.
 
         \begin{figure}[h!]
             \centering
@@ -212,7 +212,7 @@
     \section{Resultados y conclusiones}
         Después de las pruebas iniciales vemos que los modelos lineales no son capaces de capturar las relaciones que hay entre las variables numéricas de la base de datos y el Revenue logrado; el único regresor que tuvo un desempeño prometedor fue el árbol de decisión. De ahora en adelante nos enfocaremos en optimizar este método, encontrando los parámetros que maximicen su poder predictivo.
 
-        Reducción de dimensionalidad: se comparan las medidas de desempeño para nuestros modelos iniciales usando el dataframe que contiene las 20 variables nuevas. Este conjunto de datos fue a su vez usado estandarizado y sin estandarizar. Ahora que ya sabemos que de entre todos, los árboles de decisión regresores que usan datos estandarizados son los que tienen un mejor desempeño, podemos enfocarnos en verificar si es que podemos reducir el número de variables que los modelos utilicen.
+        Reducción de dimensionalidad: se comparan las medidas de desempeño para nuestros modelos iniciales usando el \emph{dataframe} que contiene las 20 variables nuevas. Este conjunto de datos fue a su vez usado estandarizado y sin estandarizar. Ahora que ya sabemos que de entre todos, los árboles de decisión regresores que usan datos estandarizados son los que tienen un mejor desempeño, podemos enfocarnos en verificar si es que podemos reducir el número de variables que los modelos utilicen.
         
         Vemos que la mayoría de las variables no tienen mucha importancia para el modelo en general. Podemos descartar la mayoría y solamente quedarnos con unas cuantas. Como equipo proponemos quedarnos con las mejores 5:
         
@@ -267,7 +267,6 @@
             \item \textbf{Taurino López González:} Pre-procesamiento de datos y redacción del reporte
             \item \textbf{Ricardo de Jesús Balam Ek:} Resultados y  conclusiones en la redacción del reporte.
         \end{itemize}
-
 
     \clearpage
     \nocite{*}

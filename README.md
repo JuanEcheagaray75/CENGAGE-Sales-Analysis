@@ -1,10 +1,10 @@
-<img src='banner-1.png' width='650'>
+<img src='banner-1.png' width='800'>
 
 # CENGAGE Sales Analysis: A Data Science Approach
 
 This repository includes basic Data Science techniques, such as sampling techniques, data preprocessing and cleaning, exploratory data analysis, and model training. This knowledge will then be applied to a real case study focused on CENGAGE's sales data.
 
-In this repository I will be going over the basic steps of The Team Data Science Process lifecycle proposed by Microsoft click [here](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle) for more info.
+In this repository I will be going over the basic steps of The Team Data Science Prscess lifecycle proposed by Microsoft click [here](https://docs.microsoft.com/en-us/azure/architecture/data-science-process/lifecycle) for more info.
 
 > As a disclosure, this repository does not exactly follow every step of the process, but it's loosely based on it's directives. It's the best lifecycle I could find in the beginning stages of the project
 
@@ -24,11 +24,15 @@ In this repository I will be going over the basic steps of The Team Data Science
 
 ## Data Science Basics
 
+[(Back to top)](#table-of-contents)
+
 ### Data Preprocessing and Cleaning
 
 ### Regression and Classification
 
 ## Case Study: CENGAGE Sales Analysis
+
+[(Back to top)](#table-of-contents)
 
 > Cengage Group is an American educational content, technology, and services company for the higher education, K-12, professional, and library markets. It operates in more than 20 countries around the world. [Source](https://en.wikipedia.org/wiki/Cengage)
 
@@ -42,6 +46,8 @@ As of this project, CENGAGE sales have been drastically decreasing since the pan
 
 ## Installation
 
+[(Back to top)](#table-of-contents)
+
 1. Clone the repository to the location of your choosing:
     - `git clone https://github.com/JuanEcheagaray75/TC2004B-Data-Science`
 2. Install the required packages:
@@ -50,5 +56,7 @@ As of this project, CENGAGE sales have been drastically decreasing since the pan
 As you can see in `requirements.txt`, the necessary dependencies are not so rare, you must likely have them installed already if you came across this repository.
 
 ## License
+
+[(Back to top)](#table-of-contents)
 
 [GNU General Public License version 3](https://opensource.org/licenses/GPL-3.0)
